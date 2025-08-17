@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naseef Nusky</h1>
 <h3 align="center">
-  I’m a full-stack developer from Sri Lanka specializing in frontend development and AI-powered solutions for modern web applications.
+I’m a full-stack developer specializing in frontend development and AI-powered solutions for modern web applications.
 </h3>
 
 ---
