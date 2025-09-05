@@ -5,7 +5,7 @@ I’m a full-stack developer specializing in AI-powered solutions for modern web
 
 ---
 
-## 🔥 About Me  
+## About Me  
 - 💡 Focused on **frontend development, UI integration, and full-stack applications**  
 - ⚡ Experienced in **Agile development cycles** and team-based deliveries  
 - 📚 Currently exploring **AI, Machine Learning, and AWS Cloud**  
