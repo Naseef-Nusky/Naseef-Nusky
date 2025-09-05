@@ -5,6 +5,25 @@ I’m a full-stack developer specializing in AI-powered solutions for modern web
 
 ---
 
+## 🔥 About Me  
+- 💡 Focused on **frontend development, UI integration, and full-stack applications**  
+- ⚡ Experienced in **Agile development cycles** and team-based deliveries  
+- 📚 Currently exploring **AI, Machine Learning, and AWS Cloud**  
+- 🎯 Motivated IT professional skilled in building **scalable, user-centric applications**  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages & Frameworks:**  
+`C` `Python` `JavaScript` `TypeScript` `Java` `React` `Angular` `Next.js` `Node.js` `Spring Boot` `Express` `Astro JS`  
+
+**Databases & Cloud:**  
+`MongoDB` `MySQL` `PostgreSQL` `MS SQL Server` `Firebase` `AWS` `Docker`  
+
+**Other Tools:**  
+`WordPress` `Figma` `Postman` `Jira` `Git` `Agile Practices`  
+
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank"> 
@@ -65,3 +84,22 @@ I’m a full-stack developer specializing in AI-powered solutions for modern web
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
 </p>
+---
+
+## 📊 Research Experience  
+**Big Data Analytics in E-Commerce Using Machine Learning Techniques (2024 - Present)**  
+📌 Final Year Research Project, University of Moratuwa  
+
+---
+
+## 🌐 Connect With Me  
+- 🌍 Portfolio: [naseefnusky.netlify.app](https://naseefnusky.netlify.app)  
+- ✉️ Email: **naseefnusky09@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/naseefnusky](#)  
+- 🐙 GitHub: [github.com/naseefnusky](#)  
+
+---
+
+⭐️ _"Always learning, building, and exploring new technologies."_  
+
+---
