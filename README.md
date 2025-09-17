@@ -95,8 +95,8 @@ I’m a full-stack developer specializing in AI-powered solutions for modern web
 ## 🌐 Connect With Me  
 - 🌍 Portfolio: [naseefnusky.netlify.app](https://naseefnusky.netlify.app)  
 - ✉️ Email: **naseefnusky09@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/naseefnusky](#)  
-- 🐙 GitHub: [github.com/naseefnusky](#)  
+- 💼 LinkedIn: [linkedin.com/in/naseef-nusky](https://www.linkedin.com/in/naseef-nusky/)  
+- 🐙 GitHub: [github.com/naseefnusky](https://github.com/naseefnusky)  
 
 ---
 
